@@ -1,4 +1,2 @@
-npm i discord.js
-npm i mineflayer
+node index
 pause
-exit
